@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/schamiir" target="blank"><img src="https://img.shields.io/twitter/follow/schamiir?logo=twitter&style=for-the-badge" alt="schamiir" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **schamirpo@gmail.com**
 
 - ⚡ Fun fact **I am a boba addict!**
+
+<a href="https://app.daily.dev/zona"><img align="right" src="https://api.daily.dev/devcards/e6c999ba45aa45138ca7c2b46878077c.png?r=n0n" width="350" alt="Schamir Poliard's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

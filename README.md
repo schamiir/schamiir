@@ -23,7 +23,7 @@
 
 ## I am Schamir Poliard
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **schamirpo@gmail.com**
 

@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## I am Schamir Poliard
+## I am ZONA
 
 - 🌱 I’m currently learning **React Js**
 

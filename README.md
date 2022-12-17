@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## I am ZONA
+## Hi there! 👋🏽 My name is ZONA - Welcome to my GitHub!
 
 - 🌱 I’m currently learning **React Js**
 

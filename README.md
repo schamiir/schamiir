@@ -1,17 +1,4 @@
-<div align="left">
-  <a href="https://twitter.com/schamiir">
-    <img
-      src="https://img.shields.io/twitter/follow/schamiir?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/schamirpoliard/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
+<div align="right">
   <a href="https://api.daily.dev/get?r=zona" target="_blank">
     <img
       width="320"
@@ -21,18 +8,24 @@
   </a>
 </div>
 
-## Hi there! 👋🏽 My name is ZONA!
+Hello 👋 I'm ZONA :)
+===============================
+[![portfolio](https://img.shields.io/badge/portfolio-4C4CE6?style=for-the-badge&logo=ko-fi&logoColor=white)](https://schamiir.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schamirpoliard/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SupernovaZona)
 
-- 🌱 I’m currently learning **React Js**
+I am a Software Developer specializing in front end web technologies.
 
-- 📫 How to reach me **schamirpo@gmail.com**
+*   🌍  I'm based in Miami, FL
+*   ✉️  You can contact me at [schamirpo@gmail.com](mailto:schamirpo@gmail.com)
+*   🧠  I'm currently learning React and Java
 
-- ⚡ Fun fact **I am a boba addict!**
+ 
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="http://www.github.com/schamiir"><img src="https://github-readme-stats.vercel.app/api?username=schamiir&show_icons=true&hide=stars,issues,&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="schamiir's GitHub stats" /></a>
 
-![Metrics](https://metrics.lecoq.io/schamiir?template=classic&achievements=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
+<a href="https://github.com/schamiir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schamiir&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 

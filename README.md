@@ -17,8 +17,11 @@ Hello 👋 I'm ZONA :)
 I am a Software Developer specializing in front end web technologies.
 
 *   🌍  I'm based in Miami, FL
-*   ✉️  You can contact me at [schamirpo@gmail.com](mailto:schamirpo@gmail.com)
-*   🧠  I'm currently learning React and Java
+*   ✉️  You can contact me at **[schamirpo@gmail.com](mailto:schamirpo@gmail.com)**
+*   🧠  I'm currently learning Cloud/DevOps, Java, & Python
+*   ✍🏽  I regularly write articles **[here](https://zona.hashnode.dev/)**
+*   📣  Ask me about Developer Advocacy, Community, & Content Creation 
+*   ⚡  Interested in Cloud Engineering & AWS
 
  
 ## GitHub Stats

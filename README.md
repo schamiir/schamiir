@@ -21,7 +21,7 @@ I am a Software Developer specializing in front end web technologies.
 *   🧠  I'm currently learning Cloud/DevOps, Java, & Python
 *   ✍🏽  I regularly write articles **[here](https://zona.hashnode.dev/)**
 *   📣  Ask me about Developer Advocacy, Community, & Content Creation 
-*   ⚡  Interested in Cloud Engineering & AWS
+*   ⚡  Interests in Cloud Engineering & AWS
 
  
 ## GitHub Stats
